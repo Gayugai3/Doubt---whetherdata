@@ -1,0 +1,28 @@
+body{
+    background-color: lightgrey;
+}
+.smallbox{
+    text-align: center;
+    padding: 2% 0;
+}
+
+.container{
+    padding: 70px 5px;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    margin-top: 5%;
+}
+.card-header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    color: aliceblue;
+    
+}
+.card{
+    font-family :'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color:lightgoldenrodyellow;
+}
